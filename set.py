@@ -1,0 +1,20 @@
+#creating a set
+n=set()
+#to add a element in a set
+n.add(1)
+n.add(2)
+n.add(3)
+n.add(4)
+n.add(4)
+n.add(5)
+n.add(6)
+n.add(6) 
+n.add(6)
+n.add(7)
+n.add(8)
+n.add(8)
+n.add(9)
+n.add(10) 
+n.add(11)
+#printing the set
+print(n)
