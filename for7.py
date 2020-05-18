@@ -5,7 +5,7 @@ for b in range(1,101):
         for i in range (2,b):
             if (b%i)==0:
                 break
-            else:
+    else:
                 a.append(b)
     
 print("and the no are",a)
